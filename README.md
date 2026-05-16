@@ -36,12 +36,3 @@ Our methodology strictly adheres to the professional ML pipeline requirements:
 | **Reem Ahmed Maher** | **ML Engineer** | Model Training, Tuning & Evaluation. |
 
 ---
-## 🌐 Threat Intelligence Context
-
-In a modern **Security Operations Center (SOC)**, analysts deal with millions of events per second. Traditional tools often fail at this scale. This project simulates a professional environment where **AI meets Big Data** to provide:
-
-*   **Automated Threat Response:** Minimizing the "Mean Time to Detect" (MTTD).
-*   **Intelligence Monitoring:** Using ML to identify complex patterns (DDoS, Botnets) hidden in high-velocity traffic.
-
-### **Live Global Cyberthreat Map**
-Visualizing the scale of global cyber-attacks highlights why distributed computing (Spark) is essential for modern IDS.
